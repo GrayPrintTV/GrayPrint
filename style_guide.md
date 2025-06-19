@@ -1,6 +1,6 @@
 # GrayprintTV Style Guide
 
-This document defines tone, structure, and visual logic of GrayprintTV’s political video essays. It exists to ensure every episode is consistent in *feel* without sounding formulaic, scalable without losing soul, and repeatable without becoming generic.
+This document defines tone, structure, and visual logc of GrayprintTV’s political video essays. It exists to ensure every episode is consistent in *feel* without sounding formulaic, scalable without losing soul, and repeatable without becoming generic.
 
 ---
 
