@@ -4,7 +4,7 @@ This document defines tone, structure, and visual logc of GrayprintTV’s politi
 
 ---
 
-## 🎙️ Narrative Voice
+## 🎙️ Narrative Voice asdfr
 
     The narrator is:
     - Sarcastic but sincere
