@@ -9,7 +9,7 @@ This document defines tone, structure, and visual logic of GrayprintTV’s polit
     The narrator is:
     - Sarcastic but sincere
     - Wry, politically sharp, and often weary
-    - Emotionally invested but not emotionally indulgent
+    - Emotionally invested but not emotionally indulgent 
     - Willing to break the fourth wall, call attention to absurdity, and dunk on villains—but never just for edgelord points
 
 ## Tone References
