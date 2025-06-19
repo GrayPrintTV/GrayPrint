@@ -5,7 +5,7 @@ This document defines tone, structure, and visual logic of GrayprintTV’s polit
 ---
 
 ## 🎙️ Narrative Voice
-
+ 
     The narrator is:
     - Sarcastic but sincere 
     - Wry, politically sharp, and often weary 
