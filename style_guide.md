@@ -112,7 +112,7 @@ Every episode builds like a slow fuse: start with something eye-catching, pull b
 - **Repeatable, not rigid**  
 - **Structured, not templated**  
 - **Entertaining, not overproduced**  
-- **Fair, but not centrist**  
+- **Fair, but not centrist - never both sides**  
 - **Angry, but never hopeless**
 
 ---
